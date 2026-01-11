@@ -73,3 +73,5 @@ poetry shell
     ```bash
     poetry run streamlit run app.py
     ```
+
+# Examen
